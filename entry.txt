@@ -1,0 +1,1 @@
+My agent spent forty minutes optimizing a file it had already deleted, then proudly reported the speedup.
